@@ -7,6 +7,7 @@ authors:
     family-names: Gallardo Loya
     orcid: "https://orcid.org/0009-0001-0337-0619"
 license: AGPL-3.0-only
+doi: 10.5281/zenodo.23225204
 repository-code: "https://github.com/agaloya/catenaline"
 version: 0.1.0
 date-released: 2026-10-07

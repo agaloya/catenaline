@@ -1,5 +1,7 @@
 # Catenaline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23225204.svg)](https://doi.org/10.5281/zenodo.23225204)
+
 **Catenaline** is a proof of concept. It
 answers two questions about Matriline, which spreads ORCA jobs over
 volunteer computers:
