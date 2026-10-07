@@ -1,0 +1,18 @@
+Catenaline - a proof of concept for distributing and chaining programs that turn input files into output files
+Copyright (C) 2026 Adrian Gallardo Loya and contributors
+
+This program is free software: you can redistribute it and/or modify it under the terms of
+the GNU Affero General Public License version 3 (see LICENSE).
+
+ADDITIONAL TERMS (AGPL-3.0 section 7(b))
+Pursuant to section 7(b) of the GNU AGPL v3, the following author attribution must be
+preserved in all copies, modified versions and derivative works, in the source code and in
+any user interface or documentation that displays legal notices or credits:
+
+    "Based on Catenaline (https://github.com/agaloya/catenaline) by Adrian Gallardo Loya and contributors.
+     If you use it in scientific work, please cite it as described in CITATION.cff."
+
+Note: the programs Catenaline runs (ORCA, xtb, LAMMPS and others) are separate works under
+their own licenses; Catenaline does not include or redistribute any of them. Using one of
+them through Catenaline is using that program: its license applies (for ORCA, the ORCA EULA:
+academic or private use only, each computer with its own licensed ORCA).
